@@ -2,7 +2,7 @@
 
 ### About text predictor
 
-Text predictor is an app that takes a string of text as input and predicts the next word as output. The prediction model used by the app was trained on data from blogs, the news, and Twitter. The app is available here:
+Text predictor is an app that implements AutoComplete. It takes a string of text as input and predicts the next word as output. The prediction model used by the app uses ngram data gathered from blogs, the news, and Twitter. The app is available here:
 
 https://wcaexqdz.shinyapps.io/textPredictor/
 
